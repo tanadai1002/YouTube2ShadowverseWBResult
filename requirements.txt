@@ -1,0 +1,4 @@
+pytubefix
+opencv-python
+ffmpeg-python
+numpy
